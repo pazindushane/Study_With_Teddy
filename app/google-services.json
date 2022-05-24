@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147114281736",
+    "project_id": "studywithteddy-e11a4",
+    "storage_bucket": "studywithteddy-e11a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147114281736:android:25925c043b673af735fabd",
+        "android_client_info": {
+          "package_name": "com.example.study_with_teddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147114281736-pqtmgkiksirau37qer1thb1m7tpnh0ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj9Y-nPemPZ83aEqK2LIUalzPVhgNrQLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147114281736-pqtmgkiksirau37qer1thb1m7tpnh0ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
